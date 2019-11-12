@@ -1,0 +1,7 @@
+#if you want to log in to root, leave the username blank
+su - username
+#to connect to remote sytem using ssh:
+ssh remote_host
+su - username
+#to exit back to local session:
+exit

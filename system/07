@@ -1,0 +1,3 @@
+# To find process named sshd owned by root:
+pgrep -u root sshd
+#there are multiple ways of doing this, 1. systemctl status ssh; 2. ps -ax | grep sshd

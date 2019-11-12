@@ -1,0 +1,3 @@
+#file is located at path /etc/resolv.conf
+#to print the content:
+cat /etc/resolv.conf

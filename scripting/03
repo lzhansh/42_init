@@ -1,0 +1,3 @@
+echo -e "\e[4;32m*** FREE AND USED MEMORY ***\e[0m"
+free
+echo ""

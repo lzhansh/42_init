@@ -1,0 +1,3 @@
+#for system based on Linux 16.04 LTS or above server:
+systemctl status ssh
+#highlighted in "Active" section shows the status

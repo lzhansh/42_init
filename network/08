@@ -1,0 +1,2 @@
+whois slash16.org | grep "Name Server:"
+#this will reveal the provider, which is AWS, aws.amazon.com

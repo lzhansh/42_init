@@ -1,0 +1,3 @@
+kill <PID>
+#or using the name: pkill <name>
+#for the last process executed: kill $!

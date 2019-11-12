@@ -1,0 +1,2 @@
+#you have to be in root to add user
+/usr/sbin/adduser new_user

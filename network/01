@@ -1,0 +1,2 @@
+ifconfig -l
+#OR for column view: ifconfig -a  | egrep "^[a-z]+" | sed "s/: .*//"

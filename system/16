@@ -1,0 +1,2 @@
+crontab -e
+#it runs tasks in the background at specific times; it’s like the Task Scheduler on Windows
